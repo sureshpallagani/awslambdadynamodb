@@ -1,0 +1,506 @@
+[
+    {
+        "year": 2013,
+        "title": "Rush",
+        "info": {
+            "directors": ["Ron Howard"],
+            "release_date": "2013-09-02T00:00:00Z",
+            "rating": 8.3,
+            "genres": [
+                "Action",
+                "Biography",
+                "Drama",
+                "Sport"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTQyMDE0MTY0OV5BMl5BanBnXkFtZTcwMjI2OTI0OQ@@._V1_SX400_.jpg",
+            "plot": "A re-creation of the merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.",
+            "rank": 2,
+            "running_time_secs": 7380,
+            "actors": [
+                "Daniel Bruhl",
+                "Chris Hemsworth",
+                "Olivia Wilde"
+            ]
+        }
+    },
+    {
+        "year": 2013,
+        "title": "Prisoners",
+        "info": {
+            "directors": ["Denis Villeneuve"],
+            "release_date": "2013-08-30T00:00:00Z",
+            "rating": 8.2,
+            "genres": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_SX400_.jpg",
+            "plot": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts. But just how far will this desperate father go to protect his family?",
+            "rank": 3,
+            "running_time_secs": 9180,
+            "actors": [
+                "Hugh Jackman",
+                "Jake Gyllenhaal",
+                "Viola Davis"
+            ]
+        }
+    },
+    {
+        "year": 2014,
+        "title": "X-Men: Days of Future Past",
+        "info": {
+            "directors": ["Bryan Singer"],
+            "release_date": "2014-05-21T00:00:00Z",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Sci-Fi"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTQ0NzIwNTA1MV5BMl5BanBnXkFtZTgwNjY2OTcwMDE@._V1_SX400_.jpg",
+            "plot": "The X-Men send Wolverine to the past to change a major historical event that could globally impact man and mutant kind.",
+            "rank": 9,
+            "actors": [
+                "Jennifer Lawrence",
+                "Hugh Jackman",
+                "Michael Fassbender"
+            ]
+        }
+    },
+    {
+        "year": 2014,
+        "title": "Transformers: Age of Extinction",
+        "info": {
+            "directors": ["Michael Bay"],
+            "release_date": "2014-06-25T00:00:00Z",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTQyMDA5Nzg0Nl5BMl5BanBnXkFtZTgwNzA4NDcxMDE@._V1_SX400_.jpg",
+            "plot": "A mechanic and his daughter make a discovery that brings down Autobots and Decepticons - and a paranoid government official - on them.",
+            "rank": 10,
+            "actors": [
+                "Mark Wahlberg",
+                "Nicola Peltz",
+                "Jack Reynor"
+            ]
+        }
+    },
+    {
+        "year": 2012,
+        "title": "The Avengers",
+        "info": {
+            "directors": ["Joss Whedon"],
+            "release_date": "2012-04-11T00:00:00Z",
+            "rating": 8.2,
+            "genres": [
+                "Action",
+                "Fantasy"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTk2NTI1MTU4N15BMl5BanBnXkFtZTcwODg0OTY0Nw@@._V1_SX400_.jpg",
+            "plot": "Nick Fury of S.H.I.E.L.D. assembles a team of superhumans to save the planet from Loki and his army.",
+            "rank": 48,
+            "running_time_secs": 8580,
+            "actors": [
+                "Robert Downey Jr.",
+                "Chris Evans",
+                "Scarlett Johansson"
+            ]
+        }
+    },
+    {
+        "year": 2012,
+        "title": "The Place Beyond the Pines",
+        "info": {
+            "directors": ["Derek Cianfrance"],
+            "release_date": "2012-09-07T00:00:00Z",
+            "rating": 7.4,
+            "genres": [
+                "Crime",
+                "Drama"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMjc1OTEwNjU4N15BMl5BanBnXkFtZTcwNzUzNDIwOQ@@._V1_SX400_.jpg",
+            "plot": "A motorcycle stunt rider turns to robbing banks as a way to provide for his lover and their newborn child, a decision that puts him on a collision course with an ambitious rookie cop navigating a department ruled by a corrupt detective.",
+            "rank": 64,
+            "running_time_secs": 8400,
+            "actors": [
+                "Ryan Gosling",
+                "Bradley Cooper",
+                "Eva Mendes"
+            ]
+        }
+    },
+    {
+        "year": 2011,
+        "title": "Bridesmaids",
+        "info": {
+            "directors": ["Paul Feig"],
+            "release_date": "2011-04-28T00:00:00Z",
+            "rating": 6.8,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMjAyOTMyMzUxNl5BMl5BanBnXkFtZTcwODI4MzE0NA@@._V1_SX400_.jpg",
+            "plot": "Competition between the maid of honor and a bridesmaid, over who is the bride's best friend, threatens to upend the life of an out-of-work pastry chef.",
+            "rank": 68,
+            "running_time_secs": 7500,
+            "actors": [
+                "Kristen Wiig",
+                "Maya Rudolph",
+                "Rose Byrne"
+            ]
+        }
+    },
+    {
+        "year": 2010,
+        "title": "Insidious",
+        "info": {
+            "directors": ["James Wan"],
+            "release_date": "2010-09-14T00:00:00Z",
+            "rating": 6.7,
+            "genres": [
+                "Horror",
+                "Thriller"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTYyOTAxMDA0OF5BMl5BanBnXkFtZTcwNzgwNTc1NA@@._V1_SX400_.jpg",
+            "plot": "A family looks to prevent evil spirits from trapping their comatose child in a realm called The Further.",
+            "rank": 71,
+            "running_time_secs": 6180,
+            "actors": [
+                "Patrick Wilson",
+                "Rose Byrne",
+                "Ty Simpkins"
+            ]
+        }
+    },
+    {
+        "year": 2012,
+        "title": "Wreck-It Ralph",
+        "info": {
+            "directors": ["Rich Moore"],
+            "release_date": "2012-11-01T00:00:00Z",
+            "rating": 7.8,
+            "genres": [
+                "Animation",
+                "Adventure",
+                "Comedy",
+                "Family"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BNzMxNTExOTkyMF5BMl5BanBnXkFtZTcwMzEyNDc0OA@@._V1_SX400_.jpg",
+            "plot": "A video game villain wants to be a hero and sets out to fulfill his dream, but his quest brings havoc to the whole arcade where he lives.",
+            "rank": 73,
+            "running_time_secs": 6480,
+            "actors": [
+                "John C. Reilly",
+                "Jack McBrayer",
+                "Jane Lynch"
+            ]
+        }
+    },
+    {
+        "year": 1994,
+        "title": "The Shawshank Redemption",
+        "info": {
+            "directors": ["Frank Darabont"],
+            "release_date": "1994-09-10T00:00:00Z",
+            "rating": 9.3,
+            "genres": [
+                "Crime",
+                "Drama"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_SX400_.jpg",
+            "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+            "rank": 80,
+            "running_time_secs": 8520,
+            "actors": [
+                "Tim Robbins",
+                "Morgan Freeman",
+                "Bob Gunton"
+            ]
+        }
+    },
+     {
+        "year": 2011,
+        "title": "X-Men: First Class",
+        "info": {
+            "directors": ["Matthew Vaughn"],
+            "release_date": "2011-05-25T00:00:00Z",
+            "rating": 7.8,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTg5OTMxNzk4Nl5BMl5BanBnXkFtZTcwOTk1MjAwNQ@@._V1_SX400_.jpg",
+            "plot": "In 1962, the United States government enlists the help of Mutants with superhuman abilities to stop a malicious dictator who is determined to start world war III.",
+            "rank": 87,
+            "running_time_secs": 7920,
+            "actors": [
+                "James McAvoy",
+                "Michael Fassbender",
+                "Jennifer Lawrence"
+            ]
+        }
+    },
+    {
+        "year": 1993,
+        "title": "Hocus Pocus",
+        "info": {
+            "directors": ["Kenny Ortega"],
+            "release_date": "1993-07-16T00:00:00Z",
+            "rating": 6.2,
+            "genres": [
+                "Comedy",
+                "Family",
+                "Fantasy",
+                "Horror"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTI3MDI2NDc3Ml5BMl5BanBnXkFtZTcwNDQ2MzQyMQ@@._V1_SX400_.jpg",
+            "plot": "After 300 years, three sister witches are resurrected in Salem Massachusetts on Halloween night, and it us up to two teenagers, a young girl, and an immortal cat to put an end to the witches reign of terror once and for all.",
+            "rank": 88,
+            "running_time_secs": 5760,
+            "actors": [
+                "Bette Midler",
+                "Sarah Jessica Parker",
+                "Kathy Najimy"
+            ]
+        }
+    },
+    {
+        "year": 2008,
+        "title": "The Dark Knight",
+        "info": {
+            "directors": ["Christopher Nolan"],
+            "release_date": "2008-07-14T00:00:00Z",
+            "rating": 9,
+            "genres": [
+                "Action",
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX400_.jpg",
+            "plot": "When Batman, Gordon and Harvey Dent launch an assault on the mob, they let the clown out of the box, the Joker, bent on turning Gotham on itself and bringing any heroes down to his level.",
+            "rank": 99,
+            "running_time_secs": 9120,
+            "actors": [
+                "Christian Bale",
+                "Heath Ledger",
+                "Aaron Eckhart"
+            ]
+        }
+    },
+     {
+        "year": 2009,
+        "title": "Mr. Nobody",
+        "info": {
+            "directors": ["Jaco Van Dormael"],
+            "release_date": "2009-09-12T00:00:00Z",
+            "rating": 7.8,
+            "genres": [
+                "Drama",
+                "Fantasy",
+                "Romance",
+                "Sci-Fi"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTg4ODkzMDQ3Nl5BMl5BanBnXkFtZTgwNTEwMTkxMDE@._V1_SX400_.jpg",
+            "plot": "A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? An infinity of possibilities rise from this decision. As long as he doesn't choose, anything is possible.",
+            "rank": 108,
+            "running_time_secs": 8460,
+            "actors": [
+                "Jared Leto",
+                "Sarah Polley",
+                "Diane Kruger"
+            ]
+        }
+    },
+    {
+        "year": 2013,
+        "title": "The Fifth Estate",
+        "info": {
+            "directors": ["Bill Condon"],
+            "release_date": "2013-09-05T00:00:00Z",
+            "rating": 6.4,
+            "genres": [
+                "Biography",
+                "Drama"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMjY1MTY5NTg3M15BMl5BanBnXkFtZTgwMDQyMjgwMDE@._V1_SX400_.jpg",
+            "plot": "A dramatic thriller based on real events, THE FIFTH ESTATE reveals the quest to expose the deceptions and corruptions of power that turned an Internet upstart into the 21st century's most fiercely debated organization.",
+            "rank": 110,
+            "running_time_secs": 7680,
+            "actors": [
+                "Benedict Cumberbatch",
+                "Daniel Bruhl",
+                "Carice van Houten"
+            ]
+        }
+    },
+    {
+        "year": 1997,
+        "title": "Titanic",
+        "info": {
+            "directors": ["James Cameron"],
+            "release_date": "1997-11-01T00:00:00Z",
+            "rating": 7.6,
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMjExNzM0NDM0N15BMl5BanBnXkFtZTcwMzkxOTUwNw@@._V1_SX400_.jpg",
+            "plot": "A seventeen-year-old aristocrat, expecting to be married to a rich claimant by her mother, falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+            "rank": 111,
+            "running_time_secs": 11640,
+            "actors": [
+                "Leonardo DiCaprio",
+                "Kate Winslet",
+                "Billy Zane"
+            ]
+        }
+    },
+    {
+        "year": 2004,
+        "title": "The Incredibles",
+        "info": {
+            "directors": ["Brad Bird"],
+            "release_date": "2004-10-27T00:00:00Z",
+            "rating": 8,
+            "genres": [
+                "Animation",
+                "Action",
+                "Adventure",
+                "Family"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_SX400_.jpg",
+            "plot": "A family of undercover superheroes, while trying to live the quiet suburban life, are forced into action to save the world.",
+            "rank": 112,
+            "running_time_secs": 6900,
+            "actors": [
+                "Craig T. Nelson",
+                "Samuel L. Jackson",
+                "Holly Hunter"
+            ]
+        }
+    },
+    {
+        "year": 1994,
+        "title": "Pulp Fiction",
+        "info": {
+            "directors": ["Quentin Tarantino"],
+            "release_date": "1994-05-12T00:00:00Z",
+            "rating": 9,
+            "genres": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMjE0ODk2NjczOV5BMl5BanBnXkFtZTYwNDQ0NDg4._V1_SX400_.jpg",
+            "plot": "The lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+            "rank": 114,
+            "running_time_secs": 9240,
+            "actors": [
+                "John Travolta",
+                "Uma Thurman",
+                "Samuel L. Jackson"
+            ]
+        }
+    },
+    {
+        "year": 1939,
+        "title": "The Wizard of Oz",
+        "info": {
+            "directors": [
+                "Victor Fleming",
+                "George Cukor",
+                "Mervyn LeRoy"
+            ],
+            "release_date": "1939-08-12T00:00:00Z",
+            "rating": 8.2,
+            "genres": [
+                "Adventure",
+                "Family",
+                "Fantasy",
+                "Musical"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTU0MTA2OTIwNF5BMl5BanBnXkFtZTcwMzA0Njk3OA@@._V1_SX400_.jpg",
+            "plot": "Dorothy Gale is swept away to a magical land in a tornado and embarks on a quest to see the Wizard who can help her return home.",
+            "rank": 118,
+            "running_time_secs": 6060,
+            "actors": [
+                "Judy Garland",
+                "Frank Morgan",
+                "Ray Bolger"
+            ]
+        }
+    },
+    {
+        "year": 2013,
+        "title": "Big Sur",
+        "info": {
+            "directors": ["Michael Polish"],
+            "release_date": "2013-01-23T00:00:00Z",
+            "rating": 6.3,
+            "genres": ["Drama"],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMjI3MDU0MDY2MF5BMl5BanBnXkFtZTgwNDY3NjUzMDE@._V1_SX400_.jpg",
+            "plot": "A recounting of Jack Kerouac's (here known by the name of his fictional alter-ego Jack Duluoz) three sojourns to the cabin in Big Sur, owned by poet Lawrence Ferlinghetti.",
+            "rank": 119,
+            "running_time_secs": 6000,
+            "actors": [
+                "Stana Katic",
+                "Radha Mitchell",
+                "Kate Bosworth"
+            ]
+        }
+    },
+    {
+        "year": 1985,
+        "title": "The Breakfast Club",
+        "info": {
+            "directors": ["John Hughes"],
+            "release_date": "1985-02-07T00:00:00Z",
+            "rating": 7.9,
+            "genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMzYyNTQ1Nzk2M15BMl5BanBnXkFtZTcwODk0NTQyMQ@@._V1_SX400_.jpg",
+            "plot": "Five high school students, all different stereotypes, meet in detention, where they pour their hearts out to each other, and discover how they have a lot more in common than they thought.",
+            "rank": 120,
+            "running_time_secs": 5820,
+            "actors": [
+                "Emilio Estevez",
+                "Judd Nelson",
+                "Molly Ringwald"
+            ]
+        }
+    },
+    {
+        "year": 2010,
+        "title": "Inception",
+        "info": {
+            "directors": ["Christopher Nolan"],
+            "release_date": "2010-07-08T00:00:00Z",
+            "rating": 8.8,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Mystery",
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX400_.jpg",
+            "plot": "A skilled extractor is offered a chance to regain his old life as payment for a task considered to be impossible.",
+            "rank": 121,
+            "running_time_secs": 8880,
+            "actors": [
+                "Leonardo DiCaprio",
+                "Joseph Gordon-Levitt",
+                "Ellen Page"
+            ]
+        }
+    }
+]
